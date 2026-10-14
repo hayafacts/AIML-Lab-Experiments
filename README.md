@@ -1,1 +1,1 @@
-# AIML-Lab-Experiment-1
+# AIML-Lab-Experiment
